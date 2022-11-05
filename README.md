@@ -1,2 +1,3 @@
 # JuniorPool
-JuniorPool is a freelance job pool for junior developers.
+JuniorPool is a freelance job bank for junior developers.
+
